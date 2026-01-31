@@ -1,0 +1,152 @@
+TD {
+	FONT-SIZE: 12px; COLOR: #3F3E3E; FONT-FAMILY: 돋움,verdana
+}
+TD.bg {
+	BACKGROUND-IMAGE: url(/img/common/top_bg.gif); BACKGROUND-REPEAT: repeat-x
+}
+TD.ht16 {
+	FONT-SIZE: 12px; COLOR: #3F3E3E; LINE-HEIGHT: 16px; FONT-FAMILY: 돋움,verdana
+}
+TD.content {
+	FONT-SIZE: 12px; COLOR: #3F3E3E; LINE-HEIGHT: 16px; FONT-FAMILY: 돋움,verdana; TEXT-ALIGN: justify
+}
+TD.ht18 {
+	FONT-SIZE: 12px; COLOR: #3F3E3E; LINE-HEIGHT: 18px; FONT-FAMILY: 돋움,verdana
+}
+TD.map {
+	FONT-SIZE: 12px; COLOR: #3F3E3E; FONT-FAMILY: 돋움,verdana
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+.indi A:link {
+	FONT-SIZE: 9pt; COLOR: #3F3E3E; FONT-FAMILY: 돋움,verdana; TEXT-DECORATION: none
+}
+.indi A:visited {
+	FONT-SIZE: 9pt; COLOR: #3F3E3E; FONT-FAMILY: 돋움,verdana; TEXT-DECORATION: none
+}
+.indi A:hover {
+	FONT-SIZE: 9pt; COLOR: #015784; FONT-FAMILY: 돋움,verdana; TEXT-DECORATION: none
+}
+A:link {
+	FONT-SIZE: 9pt; COLOR: #3F3E3E; FONT-FAMILY: 돋움,verdana; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 9pt; COLOR: #3F3E3E; FONT-FAMILY: 돋움,verdana; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 9pt; COLOR: #f68b3c; FONT-FAMILY: 돋움,verdana; TEXT-DECORATION: none
+}
+.list A:link {
+	FONT-SIZE: 9pt; COLOR: #3F3E3E; FONT-FAMILY: 돋움,verdana; TEXT-DECORATION: none
+}
+.list A:visited {
+	FONT-SIZE: 9pt; COLOR: #3F3E3E; FONT-FAMILY: 돋움,verdana; TEXT-DECORATION: none
+}
+.list A:hover {
+	FONT-SIZE: 9pt; COLOR: #015784; FONT-FAMILY: 돋움,verdana; TEXT-DECORATION: none
+}
+BODY.main {
+	BACKGROUND-IMAGE: url(/img/main/main_bg.gif); BACKGROUND-REPEAT: repeat-x
+}
+BODY.sub {
+	BACKGROUND-IMAGE: url(/img/common/body_bg.gif); BACKGROUND-REPEAT: repeat-y
+}
+BODY.print {
+	BACKGROUND-IMAGE: url(/img/print/left_bg.gif); BACKGROUND-REPEAT: repeat-y
+}
+.map A:link {
+	FONT-SIZE: 9pt; COLOR: #3F3E3E; FONT-FAMILY: 돋움,verdana; TEXT-DECORATION: none
+}
+.map A:visited {
+	FONT-SIZE: 9pt; COLOR: #3F3E3E; FONT-FAMILY: 돋움,verdana; TEXT-DECORATION: none
+}
+.map A:hover {
+	FONT-SIZE: 9pt; COLOR: #8a7545; FONT-FAMILY: 돋움,verdana; TEXT-DECORATION: none
+}
+.undergraduate A:link {
+	FONT-SIZE: 9pt; COLOR: #3F3E3E; FONT-FAMILY: 돋움,verdana; TEXT-DECORATION: none
+}
+.undergraduate A:visited {
+	FONT-SIZE: 9pt; COLOR: #3F3E3E; FONT-FAMILY: 돋움,verdana; TEXT-DECORATION: none
+}
+.undergraduate A:hover {
+	FONT-SIZE: 9pt; COLOR: #f68b3c; FONT-FAMILY: 돋움,verdana; TEXT-DECORATION: none
+}
+.indent_text {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 110px; TEXT-ALIGN: justify
+}
+.himg {
+	POSITION: absolute
+}
+.ju {
+	FONT-SIZE: 12px; COLOR: #e07f62; FONT-FAMILY: 돋움,seoul
+}
+.g {
+	FONT-SIZE: 12px; COLOR: #496906; FONT-FAMILY: 돋움,seoul
+}
+.m {
+	MARGIN-LEFT: 7px
+}
+.m15 {
+	MARGIN-LEFT: 15px
+}
+.m50 {
+	MARGIN-LEFT: 80px
+}
+.content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 29px; PADDING-BOTTOM: 0px; PADDING-TOP: 5px
+}
+.path {
+	MARGIN: 5px 24px 0px 0px; HEIGHT: 36px; TEXT-ALIGN: right
+}
+.path A:link {
+	FONT-SIZE: 9pt; COLOR: #3F3E3E; FONT-FAMILY: 돋움,verdana; TEXT-DECORATION: none
+}
+.path A:visited {
+	FONT-SIZE: 9pt; COLOR: #3F3E3E; FONT-FAMILY: 돋움,verdana; TEXT-DECORATION: none
+}
+.path A:hover {
+	FONT-SIZE: 9pt; COLOR: #015784; FONT-FAMILY: 돋움,verdana; TEXT-DECORATION: none
+}
+.page_title {
+	MARGIN: 0px 0px 20px
+}
+.page_sub_title {
+	MARGIN: 0px 0px 10px
+}
+.list_box {
+	HEIGHT: 180px
+}
+.list_box_left_pane {
+	VERTICAL-ALIGN: top; WIDTH: 87px
+}
+.list_box_right_pane {
+	MARGIN-LEFT: 10px; VERTICAL-ALIGN: top; WIDTH: 441px
+}
+.list_box_level_01 {
+	MARGIN-BOTTOM: 20px
+}
+.list_box_level_02 {
+	MARGIN-LEFT: 16px
+}
+.list_box_level_03 {
+	MARGIN-BOTTOM: 16px; MARGIN-LEFT: 26px
+}
+.input2 {
+	BACKGROUND-COLOR: white; BORDER-BOTTOM: 1px solid; BORDER-LEFT: 1px solid; BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; COLOR: black; FONT-FAMILY: 돋움,verdana; FONT-SIZE: 9pt; 
+}
+.engtitle{
+	font-family:verdana;
+}
+.eng{
+	font-family:verdana;
+}
+
+
+.xbtn{
+	color:#FFFFFF;background-color:#2E7C9E;border:0 solid black;height:20px;
+}
+.xbtn2{
+	color:#FFFFFF;background-color:#2E7C9E;border:0 solid black;height:18px;
+}

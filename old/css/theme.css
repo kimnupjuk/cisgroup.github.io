@@ -1,0 +1,76 @@
+html {
+	margin: 0;
+}
+body {
+	FONT-FAMILY: 돋움,verdana;
+	margin-top: 20px;
+	margin-left: 0px;
+}
+table {
+	border-spacing: 0px;
+}
+
+#header {
+	width: 921px;
+	height: 127px;
+}
+
+#header > div {
+	height: 97px;
+}
+
+#content {
+	width: 921px;
+	height: 690px;
+
+}
+
+#content > table {
+	border-width: 0px;
+	border-spacing: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+#footer {
+	width: 100%;
+	height: 94px;
+}
+
+hr {
+	margin: 5px;
+	border-top: 1px solid #c7c7c7;
+}
+
+#menu {
+	width: 946px;
+	height: 130px;
+}
+
+table {
+	/*line-height: 0px;*/
+}
+
+.publist font {
+	color: #1A0C52;
+	font-size: 11pt;
+}
+.publist font sub{
+	font-size:9pt;
+}
+.publist font sup{
+	font-size:9pt;
+}
+
+/* Responsive
+-------------------------------------------------- */
+@media (max-width: 979px) {
+
+}
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) { 
+
+}
+@media (max-width: 767px) {
+
+}
